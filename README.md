@@ -12,7 +12,7 @@ The project demonstrates the complete workflow including preprocessing, manual f
 
 ## Dataset
 
-The dataset used is the **Pima Indians Diabetes Dataset**, which contains medical records of patients.
+The dataset used is the **Pima Indians Diabetes Dataset**,  which contains medical records of patients.
 
 Features:
 
